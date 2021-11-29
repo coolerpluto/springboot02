@@ -1,0 +1,1 @@
+1、配置文件里有中文，需要在settings->editor->file encodings里把encoding 编码都调成utf-8，把default encoding for properties files也改成urf-8
